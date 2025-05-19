@@ -36,7 +36,3 @@ This project helped me strengthen my understanding of:
 - Add responsive styling for smaller screen sizes
 - Improve accessibility with better ARIA support
 - Add animations or hover effects for better interactivity
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
