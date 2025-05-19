@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+}
+
+.links {
+    list-style: none;
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.header {
+    background-color: #1F2937;
+    color: #f9faf8;
+    display: flex;
+    justify-content: space-around;
+}
+
+#logo {
+    font-size: 24px;
+    font-family: Roboto;
+}
+
+.header-extra {
+    background-color: #1F2937;
+    color: #f9faf8;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    font-size: 18px;
+}
+
+button {
+    border-radius: 12px;
+    background-color: #3882f6;
+    color: #f9faf8;
+    max-width: 80px;
+}
+
+.text-group {
+    display: flex;
+    flex-direction: column;
+    max-width: 250px;
+}
+
+h2 {
+    font-size: 42px;
+}
