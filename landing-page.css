@@ -50,7 +50,7 @@ button {
 }
 
 .text-group h2{
-    margin-bottom: 8px;
+    margin-bottom: 7px;
     font-weight: 900;
 }
 
@@ -79,6 +79,7 @@ h2 {
     display: flex;
     justify-content: center;
     gap: 70px;
+    padding: 60px;
 }
 
 .info-item {
@@ -92,3 +93,30 @@ h2 {
     border-radius: 12px;
     border: 3px solid #3882f6;
   }
+
+  .quote-section {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px;
+  }
+
+  #quote {
+    font-style: italic;
+    font-weight: 100;
+    font-size: 36px;
+    color: #1f2937;
+    max-width: 660px;
+  }
+
+  #quote-author {
+    text-align: right;
+    max-width: 750px;
+    font-style: normal;
+    padding-left: 400px;
+    font-size: 25px;
+    color: #1f2937;
+  }
+
+
