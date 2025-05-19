@@ -37,10 +37,12 @@ body {
 
 button {
     border-radius: 12px;
+    border-color: white;
     background-color: #3882f6;
     color: #f9faf8;
     max-width: 100px;
     padding: 5px;
+    cursor: pointer;
 }
 
 .text-group {
@@ -119,4 +121,43 @@ h2 {
     color: #1f2937;
   }
 
+  .cta-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 200px;
+    padding: 40px;
+    background-color: #3882f6;
+    border-radius: 10px;
+  }
 
+.cta-text  {
+    display: flex;
+    flex-direction: column;
+    color: #f9faf8;
+}
+
+.cta-text h2 {
+    font-size: 35px;
+    margin-bottom: 1px;
+}
+
+.cta-section button {
+  background-color: #3882f6;
+  color: #f9faf8;
+  border: solid #f9faf8 thin;
+  font-size: 17px;
+  font-weight: bold;
+  cursor: pointer;
+  padding-left: 40px;
+  padding-right: 40px;
+  max-width: 200px;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
