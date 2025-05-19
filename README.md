@@ -4,7 +4,7 @@ This is a static landing page built as part of [The Odin Project's](https://www.
 
 ## 📸 Preview
 
-![Landing Page Screenshot](./screenshot.png)  
+![Landing Page Screenshot](./landing-page.png)  
 
 ## 🛠 Technologies Used
 
