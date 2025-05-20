@@ -2,6 +2,8 @@
 
 This is a static landing page built as part of [The Odin Project's](https://www.theodinproject.com/) foundational web development curriculum. It focuses on practicing core HTML and CSS skills with an emphasis on layout, visual structure, and styling using Flexbox.
 
+🔗 Live Site: https://cffampo.github.io/landing-page/
+
 ## 📸 Preview
 
 ![Landing Page Screenshot](./landing-page.png)  
